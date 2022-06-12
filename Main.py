@@ -25,8 +25,8 @@ import multiprocessing
 
 if __name__ == "__main__":
 
-    BOT=MSGBOT('1671360600:AAGDkViYx_YyOj7H89qI_gvh9e93RlEZ8FU')
-    user='293913668'
+    BOT=MSGBOT('')
+    user=''
     # bgn_de = '20220418'
     # end_de = '20220311'
     # filter_kwg = '주주총회소집공고'
