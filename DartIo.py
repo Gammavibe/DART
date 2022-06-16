@@ -9,7 +9,7 @@ class DartIo(Get):
 
     @property
     def crtfc_key(self):
-        return '492df870d01789026922a68e24708f1c2c532c5b'
+        return ''
 
     @crtfc_key.setter
     def crtfc_key(self,crtfc_key):
